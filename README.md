@@ -1,2 +1,2 @@
-# Hello
-setting up git
+ Hello
+Hello project
